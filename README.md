@@ -10,7 +10,6 @@
 
 - [ ] **Apache James Management Dashboard**
   > manage Apache James from a web dashboard
-  
   - Resources
     - [Apache James](https://james.apache.org)
 
