@@ -2,8 +2,8 @@
 
 > a curated list of awesome ideas
 
-Please check the box and submit a link if you are working on
-one of these ideas
+- [x] checked boxes means the idea is actively under development
+- ~~crossed out items means the idea is complete~~
 
 
 - [ ] **Apache James Management Dashboard**
