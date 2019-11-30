@@ -15,7 +15,7 @@ one of these ideas
 
 Open source ideas
 
-[ ] **Apache James Management Dashboard**
+[] **Apache James Management Dashboard**
   - [Apache James](https://james.apache.org)
 
 
