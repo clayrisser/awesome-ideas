@@ -6,13 +6,15 @@
 - ~~crossed out items means the idea is complete~~
 
 
+## Contents
+
 - [ ] **Apache James Management Dashboard**
-  manage Apache James from a web dashboard
+  > manage Apache James from a web dashboard
   - Resources
     - [Apache James](https://james.apache.org)
 
 - [x] **[React AST](https://github.com/codejamninja/react-ast)**
-  render abstract syntax trees with react
+  > render abstract syntax trees with react
 
 
 ## Contribute
