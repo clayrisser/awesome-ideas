@@ -6,17 +6,13 @@ Please check the box and submit a link if you are working on
 one of these ideas
 
 
-## Contents
+- [ ] **Apache James Management Dashboard**
+  manage Apache James from a web dashboard
+  - Resources
+    - [Apache James](https://james.apache.org)
 
-- [Open Source](#open-source)
-
-
-## Open Source
-
-Open source ideas
-
-[ ] **Apache James Management Dashboard**
-  - [Apache James](https://james.apache.org)
+- [x] **[React AST](https://github.com/codejamninja/react-ast)**
+  render abstract syntax trees with react
 
 
 ## Contribute
