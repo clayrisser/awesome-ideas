@@ -12,6 +12,9 @@
   > manage Apache James from a web dashboard
   - Resources
     - [Apache James](https://james.apache.org)
+ 
+- [ ] **Restore EC2 SSH Key**
+  > script to restore an ec2 ssh key
 
 - [x] **[React AST](https://github.com/codejamninja/react-ast)**
   > render abstract syntax trees with react
