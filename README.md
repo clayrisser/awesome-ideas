@@ -15,7 +15,13 @@
  
 - [ ] **Restore EC2 SSH Key**
   > script to restore an ec2 ssh key
-
+  
+- [ ] **PGP KeyServer Rest API**
+  > reset api for pgp keyserver
+  
+- [ ] **PGP KeyServer Dashboard**
+  > dashboard for pgp keyserver
+  
 - [x] **[React AST](https://github.com/codejamninja/react-ast)**
   > render abstract syntax trees with react
 
