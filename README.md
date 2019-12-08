@@ -17,7 +17,7 @@
   > script to restore an ec2 ssh key
   
 - [ ] **PGP KeyServer Rest API**
-  > reset api for pgp keyserver
+  > rest api for pgp keyserver
   
 - [ ] **PGP KeyServer Dashboard**
   > dashboard for pgp keyserver
