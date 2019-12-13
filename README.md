@@ -22,6 +22,9 @@
 - [ ] **PGP KeyServer Dashboard**
   > dashboard for pgp keyserver
   
+- [ ] **Insomnia Sync Server**
+  > server to sync insomnia requests
+  
 - [x] **[React AST](https://github.com/codejamninja/react-ast)**
   > render abstract syntax trees with react
 
